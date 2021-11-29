@@ -1,1 +1,1 @@
-IAAC-MDEF-EI
+Notebooks for the Extended Intelligence course of the MDEF master at IAAC
